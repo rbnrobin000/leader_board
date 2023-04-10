@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: #F3F1FF;
+}
+.container{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.header_bg{
+    background-color: #562EFF;
+}
+main{
+    margin-top: 50px;
+}
+.navbar img{
+    width: 60px;
+}
+.navbar h3{
+    color: white;
+    font-weight: 700;
+}
+.nav-item{
+    margin-left: 20px;
+}
+.nav-link{
+    color: white;
+    font-size: 22px;
+}
+.main_wrap{
+    background-color: #FFFFFF;
+    border-radius: 5px;
+}
+.main_wrap h2{
+    color: #562EFF;
+}
+.top_player img{
+    width: 70px;
+}
+.top_player h4{
+    margin-left: 25px;
+    font-weight: 400;
+}
+.name_color_blue{
+    color: #562EFF;
+}
+.blog img{
+    width: 220px;
+}
+.blog_text p{
+    display: inline;
+}
+
+
+.course{
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    margin-top: 25px;
+}
+.course h2{
+    color: #562EFF;
+}
+.card{
+    border-radius: 20px;
+    padding: 15px;
+    box-shadow: 10px 10px 20px lightgray;
+}
+.card-footer{
+    background-color: white !important;
+    border-top: none;
+}
+.card-footer .star img{
+    width: 15px;
+    margin-right: 3px;
+}
+.card-footer .clock img{
+    width: 20px;
+}
+.card-footer small{
+    margin-left: 10px;
+}
+.pink_text{
+    color: #FF4A60 !important;
+}
+.pink_bg{
+    background-color: #FFE4E8;
+    border-radius: 20px;
+}
